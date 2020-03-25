@@ -1,0 +1,16 @@
+name: COVID-19-PH-Visualization-Tagalog-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - bokeh
+  - datetime
+  - holoviews
+  - xarray
+  - geopandas
+  - hvplot
+  - panel
+  - cartopy
