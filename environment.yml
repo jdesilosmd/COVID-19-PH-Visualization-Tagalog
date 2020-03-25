@@ -14,3 +14,8 @@ dependencies:
   - hvplot
   - panel
   - cartopy
+  - pip
+  - pip:
+    - nbserverproxy
+    - jupyter-server-proxy
+
