@@ -7,7 +7,6 @@ dependencies:
   - matplotlib
   - seaborn
   - bokeh
-  - datetime
   - holoviews
   - xarray
   - geopandas
