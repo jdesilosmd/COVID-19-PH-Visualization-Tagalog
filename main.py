@@ -484,17 +484,7 @@ PH_data_visual = pn.Column(title,
                            hospitals_PH_plot,
                            place_PH_plot)
 
-#PH_data_visual.show()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
+PH_data_visual.show()
 
 
 
